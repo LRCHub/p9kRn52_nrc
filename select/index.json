@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Rightfully（TVアニメゴブリンスレイヤーOPテーマ）",
+  "base_artist": "Mili",
+  "createdAt": "2026-03-16T01:52:46.809942Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rightfully(TVアニメゴブリンスレイヤーOPテーマ)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rightfully(TVアニメゴブリンスレイヤーOPテーマ)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rightfully（TVアニメゴブリンスレイヤーOPテーマ）",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rightfully(TVアニメゴブリンスレイヤーOPテーマ)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/04_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rightfully（TVアニメゴブリンスレイヤーOPテーマ）",
+      "artist": "Mili - Topic",
+      "has_synced": true,
+      "path": "select/05_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rightfully(TVアニメゴブリンスレイヤーOPテーマ)",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Rightfully(TVアニメゴブリンスレイヤーOPテーマ)_Mili.txt"
+    }
+  ]
+}
